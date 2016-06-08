@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:25:59.157617
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:17
 #+TITLE: 九品往生阿彌陀三摩地集陀羅尼經
 #+PROPERTY: CBETA_ID T19n0933
 #+PROPERTY: ID KR6j0105
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 933
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0105_T_000-0079b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0105_T_001-0079b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.933¶
-
- 九品往生阿彌陀三摩地集陀¶
+No. 933¶
+九品往生阿彌陀三摩地集陀¶
 羅尼經¶
 ¶
 特進試鴻臚卿大興善寺三藏¶
@@ -22,7 +21,7 @@ No.933¶
 
 爾時毘盧遮那如來。於大三摩地門大精舍。¶
 與大比丘眾八萬九千人俱。皆是大阿羅漢。¶
-慧善具足所作皆辦。其名曰神力智辨觀世¶
+慧善具足所作皆辨。其名曰神力智辨觀世¶
 音菩薩得大勢菩薩。神通自在王菩薩淨光
 <pb:KR6j0105_T_001-0079c>¶
 無垢陀羅尼菩薩。大力普聞菩薩大莊嚴力¶
